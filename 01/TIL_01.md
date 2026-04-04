@@ -12,12 +12,19 @@
 
 3. 결과 이미지
 <img width="2880" height="1800" alt="PBL 코드 1" src="https://github.com/user-attachments/assets/a5e1dc09-f9d5-4994-b102-de166f9c84ae" />
+PBL 코드 01
 <img width="2880" height="1800" alt="PBL 코드 2" src="https://github.com/user-attachments/assets/7ac5b12d-21cd-4aa4-9da9-133b949fd973" />
+PBL 코드 02
 <img width="2880" height="1800" alt="PBL 코드 3" src="https://github.com/user-attachments/assets/9ec48c7d-2162-4500-b7fc-47e043bf2a44" />
+PBL 코드 03
 <img width="2880" height="1800" alt="PBL 코드 실행 결과" src="https://github.com/user-attachments/assets/5857aaea-523d-445d-ae91-4d610bcba4c8" />
+PBL 코드 실행 결과
 <img width="2880" height="1800" alt="PBL 보너스 코드 실행 결과 1" src="https://github.com/user-attachments/assets/abc2787c-1a47-4b7b-8095-5b4d64cf3207" />
+PBL 보너스 코드 실행 결과 01
 <img width="2880" height="1800" alt="PBL 보너스 코드 실행 결과 2" src="https://github.com/user-attachments/assets/d0367365-aa9d-4c68-bd38-188f68a35916" />
+PBL 보너스 코드 실행 결과 02
 <img width="2880" height="1800" alt="PBL 보너스 코드 실행 결과 3" src="https://github.com/user-attachments/assets/407e4c40-65f0-4cfc-a37a-06bb1191054d" />
+PBL 보너스 코드 실행 결과 03
 
 
 4. 느낀 점
