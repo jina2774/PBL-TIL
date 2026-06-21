@@ -1,0 +1,23 @@
+package com.likelion.assignment.dto;
+
+public class AssignmentCreateRequest {
+
+    private String title;
+    private String description;
+
+    public AssignmentCreateRequest() {
+    }
+
+    public AssignmentCreateRequest(String title, String description) {
+        this.title = title;
+        this.description = description;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+}
